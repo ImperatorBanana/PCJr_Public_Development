@@ -4,7 +4,7 @@ rem DOS 2.1 doesn't seem to support running executables
 rem with relative paths so this is going to be fun
 rem JRA = ROM Binary with Cartridge Header but Invalid Checksum
 rem JRB = ROM Cartridge Binary with valid Checksum - can run on real hardware
-rem JRC = Cartridge Binary with JRC Header - can run in DOSBOX (boot ROM\<name>.JRC)
+rem JRC = Cartridge Binary with JRC Header - can run in DOSBOX (boot ROM\[name].JRC)
 
 rem If not using JRC you can rem or delete the ADDJRC line
 rem if not burning ROM to cartridge
